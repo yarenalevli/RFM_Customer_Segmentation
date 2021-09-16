@@ -21,6 +21,8 @@ it is desirable to organize different campaigns for new customers.*
 it includes sales between Dec. Souvenirs are included in the product catalog of this company.
 The vast majority of the company's customers are corporate customers.*
 
+Dataset: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
+
 ## Variables
 
 *InvoiceNo – Invoice Number (If this code starts with C, it means that the transaction has been canceled.)*
@@ -36,4 +38,7 @@ The vast majority of the company's customers are corporate customers.*
 *CustomerID – Unique customer number*
 
 *Country-Country name*
+
+#### Reference: Veri Bilimi Okulu
+
 
