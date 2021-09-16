@@ -80,6 +80,7 @@ rfm = df.groupby('Customer ID').agg({'InvoiceDate': lambda date : (today_date - 
 rfm.columns = ['recency', 'frequency', 'monetary']
 rfm = rfm[rfm["monetary"] > 0]
 rfm.head()
+
 ###################################
 # TASK 3 : Creating RFM scores and converting them into a single variable
 ###################################
